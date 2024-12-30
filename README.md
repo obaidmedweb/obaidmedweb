@@ -39,16 +39,10 @@ brew install ffmpeg
 
 ## How to Run the Application
 
-### 1. Clone the Repository
+### 1. Download Apps from Here
 ```bash
-https://github.com/obaidmedweb/obaidmedweb.git
-
+https://github.com/obaidmedweb/obaidmedweb/releases/tag/v1.0
 ```
 
 ### 2. Run the Application
-Execute the script using Python:
-```bash
-python main.py
-```
-
 ---
