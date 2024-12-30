@@ -1,4 +1,8 @@
+
+
 # YouTube Downloader for macOS
+![Capture d’écran 2024-12-30 à 17 27 28](https://github.com/user-attachments/assets/3ec80b1f-3340-4d4e-9ab7-4acf74c38f32)
+
 
 This is a simple YouTube Downloader application built using Python and PyQt5. The application allows users to download YouTube videos in the highest MP4 quality or extract audio in MP3 format. It features a user-friendly interface designed specifically for macOS.
 
