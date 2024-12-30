@@ -41,9 +41,8 @@ brew install ffmpeg
 
 ### 1. Clone the Repository
 ```bash
-[git clone https://github.com/your-repo/youtube-downloader-macos.git
-cd youtube-downloader-macos
-](https://github.com/obaidmedweb/obaidmedweb.git)
+https://github.com/obaidmedweb/obaidmedweb.git
+
 ```
 
 ### 2. Run the Application
